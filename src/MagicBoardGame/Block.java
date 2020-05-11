@@ -1,4 +1,4 @@
-package mobanyouxi;
+package MagicBoardGame;
 
 import javax.swing.*;
 
